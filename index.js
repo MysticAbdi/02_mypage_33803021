@@ -22,7 +22,7 @@ http.createServer(function(req, res) {
   </style>
 </head>
 <body>
-  <h1>Hello, I'm Abdikarin Mohamed</h1>
+  <h1>Hi, I'm Abdikarin Mohamed</h1>
   <h2>About Me</h2>
   <p>
     I'm a Computer Science student at Goldsmiths University, passionate about technology,
